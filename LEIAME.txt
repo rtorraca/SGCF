@@ -1,0 +1,6 @@
+O Projeto SGCF será versionado para que o trabalho possa ser realizado em equipe e seguindo normas de 
+engenharia e qualidade de software.
+
+Qualquer Dúvida contactar: robson.torraca@gmail.com.
+
+Grato
